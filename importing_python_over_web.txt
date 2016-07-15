@@ -1,0 +1,10 @@
+
+
+http://stackoverflow.com/questions/18747043/import-python-module-over-the-internet-multiple-protocols-or-dynamically-create
+
+http://stackoverflow.com/questions/3799545/dynamically-importing-python-module
+
+
+Gość napisał implementację, pomyśleć jak to uruchamiać od razu, pomyśleć nad serwerem, pomyśleć nad ściąganiem tego z pipa albo condy
+  
+http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/
